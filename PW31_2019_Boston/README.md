@@ -69,6 +69,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### DICOM
 
 - [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
+- [Create DICOM object for 3D volume to represent clinical target volume](Projects/DICOM_object_for_3D_structures/README.md) (Nadya Shusharina)
+
 
 ### Diffusion MRI
 
